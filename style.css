@@ -1,19 +1,29 @@
 h1 {
-    color: blue;
+    color:#333;
 }
 
-p {
-    color: darkred;
+h2 {
+    color: #333;
 }
 
-.valiotsikko {
-    color: darkred;
+h3 {
+    margin-top: 1em;
+    padding-top: 1em;
+    color: #333;
 }
 
-.lista {
-    color: plum;
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #555;
+
 }
 
-#punainen-kohta {
-    color: red;
+code {
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+    background: #eee;
 }
